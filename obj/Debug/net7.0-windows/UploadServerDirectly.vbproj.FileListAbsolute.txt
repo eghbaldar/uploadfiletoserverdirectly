@@ -1,0 +1,17 @@
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\bin\Debug\net7.0-windows\UploadServerDirectly.exe
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\bin\Debug\net7.0-windows\UploadServerDirectly.deps.json
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\bin\Debug\net7.0-windows\UploadServerDirectly.runtimeconfig.json
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\bin\Debug\net7.0-windows\UploadServerDirectly.dll
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\bin\Debug\net7.0-windows\UploadServerDirectly.pdb
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.vbproj.AssemblyReference.cache
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.Form1.resources
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.vbproj.GenerateResource.cache
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.AssemblyInfoInputs.cache
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.AssemblyInfo.vb
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.vbproj.CoreCompileInputs.cache
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.dll
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\refint\UploadServerDirectly.dll
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.pdb
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\UploadServerDirectly.genruntimeconfig.cache
+C:\Users\IRANFILMPORT\Desktop\UploadServerDirectly\obj\Debug\net7.0-windows\ref\UploadServerDirectly.dll
